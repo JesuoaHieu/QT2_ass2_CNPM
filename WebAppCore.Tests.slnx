@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../WebAppCore/WebAppCore/WebAppCore.csproj" />
+  <Project Path="WebAppCore.Tests/WebAppCore.Tests.csproj" />
+</Solution>
